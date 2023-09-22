@@ -1,0 +1,14 @@
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\TheSewers\bin\Debug\net6.0\TheSewers.exe
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\TheSewers\bin\Debug\net6.0\TheSewers.deps.json
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\TheSewers\bin\Debug\net6.0\TheSewers.runtimeconfig.json
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\TheSewers\bin\Debug\net6.0\TheSewers.dll
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\TheSewers\bin\Debug\net6.0\TheSewers.pdb
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\TheSewers\obj\Debug\net6.0\TheSewers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\TheSewers\obj\Debug\net6.0\TheSewers.AssemblyInfoInputs.cache
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\TheSewers\obj\Debug\net6.0\TheSewers.AssemblyInfo.cs
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\TheSewers\obj\Debug\net6.0\TheSewers.csproj.CoreCompileInputs.cache
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\TheSewers\obj\Debug\net6.0\TheSewers.dll
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\TheSewers\obj\Debug\net6.0\refint\TheSewers.dll
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\TheSewers\obj\Debug\net6.0\TheSewers.pdb
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\TheSewers\obj\Debug\net6.0\TheSewers.genruntimeconfig.cache
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\TheSewers\obj\Debug\net6.0\ref\TheSewers.dll

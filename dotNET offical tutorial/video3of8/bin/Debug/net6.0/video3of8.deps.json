@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "video3of8/1.0.0": {
+        "dependencies": {
+          "Video5of8": "1.0.0"
+        },
+        "runtime": {
+          "video3of8.dll": {}
+        }
+      },
+      "Video5of8/1.0.0": {
+        "runtime": {
+          "Video5of8.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "video3of8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Video5of8/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

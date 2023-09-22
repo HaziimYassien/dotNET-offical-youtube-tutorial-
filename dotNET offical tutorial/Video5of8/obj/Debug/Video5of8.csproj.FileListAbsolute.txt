@@ -1,0 +1,6 @@
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\Video5of8\bin\Debug\Video5of8.dll
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\Video5of8\bin\Debug\Video5of8.pdb
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\Video5of8\obj\Debug\Video5of8.csproj.AssemblyReference.cache
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\Video5of8\obj\Debug\Video5of8.csproj.CoreCompileInputs.cache
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\Video5of8\obj\Debug\Video5of8.dll
+C:\Users\hazii\Documents\GitHub\dotNET-offical-youtube-tutorial-\dotNET offical tutorial\Video5of8\obj\Debug\Video5of8.pdb
